@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\bin\Debug\Quartz.exe.config
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\obj\Debug\Quartz.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\bin\Debug\Quartz.exe
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\bin\Debug\Quartz.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\bin\Debug\Quartz.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\bin\Debug\Quartz.xml
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\obj\Debug\Quartz.exe
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\obj\Debug\Quartz.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\bin\Debug\Common.Logging.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\bin\Debug\Common.Logging.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\NET\Quartz\Quartz\bin\Debug\Common.Logging.xml
